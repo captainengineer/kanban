@@ -123,12 +123,23 @@
       <workItem from="1591021475862" duration="3456000" />
       <workItem from="1591191652775" duration="2251000" />
       <workItem from="1591195689212" duration="3908000" />
-      <workItem from="1591792893755" duration="2745000" />
+      <workItem from="1591792893755" duration="3074000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="369" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591192351194">
