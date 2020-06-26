@@ -17,6 +17,8 @@ def index(request):
 @login_required
 def home(request):
     return render(request, "kanban/home.html")
+
+
 def signup(request):
     if request.method == 'POST':
         form = UserCreationForm(request.POST)

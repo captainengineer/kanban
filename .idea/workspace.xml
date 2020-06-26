@@ -13,6 +13,7 @@
     <list default="true" id="1cba83cf-8796-4228-8281-1579ef466790" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanban/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/kanban/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +138,7 @@
       <workItem from="1591195689212" duration="3908000" />
       <workItem from="1591792893755" duration="4068000" />
       <workItem from="1592401558612" duration="973000" />
+      <workItem from="1592917303722" duration="619000" />
     </task>
     <servers />
   </component>
@@ -172,44 +174,44 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="212" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1591022782572" />
-    <state width="699" height="304" key="GridCell.Tab.0.bottom" timestamp="1592917290541">
+    <state width="699" height="304" key="GridCell.Tab.0.bottom" timestamp="1593187526524">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592917290541" />
-    <state width="699" height="304" key="GridCell.Tab.0.center" timestamp="1592917290538">
+    <state width="699" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593187526524" />
+    <state width="699" height="304" key="GridCell.Tab.0.center" timestamp="1593187526522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592917290538" />
-    <state width="699" height="304" key="GridCell.Tab.0.left" timestamp="1592917290537">
+    <state width="699" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593187526522" />
+    <state width="699" height="304" key="GridCell.Tab.0.left" timestamp="1593187526521">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592917290537" />
-    <state width="699" height="304" key="GridCell.Tab.0.right" timestamp="1592917290539">
+    <state width="699" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593187526521" />
+    <state width="699" height="304" key="GridCell.Tab.0.right" timestamp="1593187526523">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592917290539" />
-    <state width="699" height="304" key="GridCell.Tab.1.bottom" timestamp="1592917290546">
+    <state width="699" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593187526523" />
+    <state width="699" height="304" key="GridCell.Tab.1.bottom" timestamp="1593187526294">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592917290546" />
-    <state width="699" height="304" key="GridCell.Tab.1.center" timestamp="1592917290543">
+    <state width="699" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593187526294" />
+    <state width="699" height="304" key="GridCell.Tab.1.center" timestamp="1593187526292">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1592917290543" />
-    <state width="699" height="304" key="GridCell.Tab.1.left" timestamp="1592917290542">
+    <state width="699" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593187526292" />
+    <state width="699" height="304" key="GridCell.Tab.1.left" timestamp="1593187526291">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1592917290542" />
-    <state width="699" height="304" key="GridCell.Tab.1.right" timestamp="1592917290545">
+    <state width="699" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593187526291" />
+    <state width="699" height="304" key="GridCell.Tab.1.right" timestamp="1593187526293">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1592917290545" />
+    <state width="699" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593187526293" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1592659449403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592659449403" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kanban$manage.coverage" NAME="manage Coverage Results" MODIFIED="1592917403458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kanban$manage.coverage" NAME="manage Coverage Results" MODIFIED="1593187526229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
